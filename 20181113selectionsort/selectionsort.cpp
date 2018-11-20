@@ -4,8 +4,8 @@
 //입력 : 배열(배열이름, 배열길이)
 //출력 : 최소값의 인덱스
 int findMinIndex(int* a, int length,int firstIndex){
-	int min= a[firstIndex+1];
-	int minIndex=firstIndex+1;
+	int min= a[firstIndex];
+	int minIndex=firstIndex;
 
 	for(int i=firstIndex;i<length;i++){
 		if(a[i]<min){

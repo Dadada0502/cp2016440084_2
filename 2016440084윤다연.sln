@@ -79,6 +79,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181113arraypointer", "201
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181113selectionsort", "20181113selectionsort\20181113selectionsort.vcxproj", "{68349A8B-8301-4577-92CF-7CDE7BC58223}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181120", "20181120\20181120.vcxproj", "{8DFAA53C-3927-4CBD-B0E6-57AFBDB90E0A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181120문자열", "20181120문자열\20181120문자열.vcxproj", "{5BD31258-8AB3-4D7E-AD91-E608E8B52BF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -241,6 +245,14 @@ Global
 		{68349A8B-8301-4577-92CF-7CDE7BC58223}.Debug|Win32.Build.0 = Debug|Win32
 		{68349A8B-8301-4577-92CF-7CDE7BC58223}.Release|Win32.ActiveCfg = Release|Win32
 		{68349A8B-8301-4577-92CF-7CDE7BC58223}.Release|Win32.Build.0 = Release|Win32
+		{8DFAA53C-3927-4CBD-B0E6-57AFBDB90E0A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8DFAA53C-3927-4CBD-B0E6-57AFBDB90E0A}.Debug|Win32.Build.0 = Debug|Win32
+		{8DFAA53C-3927-4CBD-B0E6-57AFBDB90E0A}.Release|Win32.ActiveCfg = Release|Win32
+		{8DFAA53C-3927-4CBD-B0E6-57AFBDB90E0A}.Release|Win32.Build.0 = Release|Win32
+		{5BD31258-8AB3-4D7E-AD91-E608E8B52BF4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5BD31258-8AB3-4D7E-AD91-E608E8B52BF4}.Debug|Win32.Build.0 = Debug|Win32
+		{5BD31258-8AB3-4D7E-AD91-E608E8B52BF4}.Release|Win32.ActiveCfg = Release|Win32
+		{5BD31258-8AB3-4D7E-AD91-E608E8B52BF4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

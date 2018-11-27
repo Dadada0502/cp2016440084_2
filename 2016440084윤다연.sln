@@ -83,6 +83,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181120", "20181120\201811
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181120문자열", "20181120문자열\20181120문자열.vcxproj", "{5BD31258-8AB3-4D7E-AD91-E608E8B52BF4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20181127구조체", "20181127구조체\20181127구조체.vcxproj", "{ECF01E1E-4867-4DC2-B907-E6420AA3A1CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -253,6 +255,10 @@ Global
 		{5BD31258-8AB3-4D7E-AD91-E608E8B52BF4}.Debug|Win32.Build.0 = Debug|Win32
 		{5BD31258-8AB3-4D7E-AD91-E608E8B52BF4}.Release|Win32.ActiveCfg = Release|Win32
 		{5BD31258-8AB3-4D7E-AD91-E608E8B52BF4}.Release|Win32.Build.0 = Release|Win32
+		{ECF01E1E-4867-4DC2-B907-E6420AA3A1CC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ECF01E1E-4867-4DC2-B907-E6420AA3A1CC}.Debug|Win32.Build.0 = Debug|Win32
+		{ECF01E1E-4867-4DC2-B907-E6420AA3A1CC}.Release|Win32.ActiveCfg = Release|Win32
+		{ECF01E1E-4867-4DC2-B907-E6420AA3A1CC}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
